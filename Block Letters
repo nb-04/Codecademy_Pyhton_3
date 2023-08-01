@@ -1,0 +1,9 @@
+# Nick Burkamper
+# Fun Fact: I played 4 different sports in high school.
+print('N   N BBBB ')
+print('NN  N B   B')
+print('N N N B   B')
+print('N  NN BBBB ')
+print('N   N B   B')
+print('N   N B   B')
+print('N   N BBBB')
